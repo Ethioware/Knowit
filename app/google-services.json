@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1054193772825",
+    "project_id": "knowit-6a1f1",
+    "storage_bucket": "knowit-6a1f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054193772825:android:642547878972ad9e81bd88",
+        "android_client_info": {
+          "package_name": "com.ethioware.knowit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054193772825-5e01v9tr72okf3etdpfc9usmj7tklfnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmOKogp16JtU9DWgzMxj_xM8UWwY9-WzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054193772825-5e01v9tr72okf3etdpfc9usmj7tklfnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054193772825:android:164a5eab8155d95081bd88",
+        "android_client_info": {
+          "package_name": "com.example.knowit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054193772825-5e01v9tr72okf3etdpfc9usmj7tklfnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmOKogp16JtU9DWgzMxj_xM8UWwY9-WzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054193772825-5e01v9tr72okf3etdpfc9usmj7tklfnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
