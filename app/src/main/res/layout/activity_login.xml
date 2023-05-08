@@ -165,7 +165,7 @@
                 android:text="@string/btn_link_to_register"
                 android:fontFamily="@font/lato_black"
                 android:textAllCaps="false"
-                android:textColor="@color/fui_linkColor"
+                android:textColor="@color/bckg"
                 android:textSize="15sp" />
 
         </androidx.appcompat.widget.LinearLayoutCompat>

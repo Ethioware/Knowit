@@ -9,7 +9,6 @@ import android.widget.EditText;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.Toolbar;
 
 import com.ethioware.knowit.R;
 import com.ethioware.knowit.View.MainActivity;
@@ -53,8 +52,6 @@ public class LoginActivity extends AppCompatActivity {
         // set the view now
         setContentView(R.layout.activity_login);
 
-        Toolbar toolbar =  findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
 
         inputEmail =  findViewById(R.id.email);
         inputPassword =  findViewById(R.id.password);
